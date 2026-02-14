@@ -1,10 +1,9 @@
-package org.parallelsuite.test.tasks;
+package org.parallelsuite.test.task;
 
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.Arrays;
 
 public class TestUtils {
